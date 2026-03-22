@@ -1,5 +1,12 @@
 # Herring-spatial-analysis
-Herring spatial analysis in the Baltic Sea
+# 🌍 Background
+
+# Baltic herring (Clupea harengus) is a key species in the Baltic Sea ecosystem, linking lower and higher trophic levels. 
+
+# Understanding its spatial distribution and potential subpopulation structure is essential for biodiversity conservation and fisheries management.
+
+# This project applies data science and machine learning methods to explore herring occurrence patterns using open biodiversity data.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
