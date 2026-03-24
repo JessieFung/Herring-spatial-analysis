@@ -10,7 +10,7 @@
 - Data type: occurence records with coordinates and timestamps
 ## III Methods
 ### 1.Data processing
-- Selected key variables:
+  - Selected key variables:
   - latitude, longitude
   - data
   - country
