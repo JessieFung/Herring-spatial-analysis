@@ -12,7 +12,7 @@
 ### 1.Data processing
 - Selected key variables:
   - latitude, longitude
-  - data
+  - date
   - country
 - Removed missing values
 - Coverted date to datetime format
