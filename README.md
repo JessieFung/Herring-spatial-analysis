@@ -22,7 +22,7 @@
   - Latitude: 53-66
   - Longitude: 10-30
 ### 3.Visualization
--Scatter plot (occurrence map)
+- Scatter plot (occurrence map)
 - Kernel Density Estimation (KDE) for hotspot detection
 - Monthly histogram for temporal distribution
 ### 4.Clustering (Machine Learning)
